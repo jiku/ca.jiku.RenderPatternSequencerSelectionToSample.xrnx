@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool>
+  <ApiVersion>3</ApiVersion>
+  <Id>ca.jiku.RenderPatternSequencerSelectionToSample</Id>
+  <Version>0.1</Version>
+  <Author>B.E. Henriksen (e@jiku.ca)</Author>
+  <Homepage>http://jiku.ca</Homepage>
+  <Name>Render Pattern Sequencer Selection to Sample</Name>
+  <Category>Usability Improvement</Category>
+  <Description>Renders Pattern Sequencer selection to a sample. Adds 'Render selection to sample...' option to the Pattern Sequencer's context menu.</Description>
+</RenoiseScriptingTool>
